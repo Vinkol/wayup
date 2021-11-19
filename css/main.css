@@ -1,0 +1,38 @@
+h1.new {
+    color: red;
+    font-size: 50px;
+}
+p.new {
+    color: white;
+    background: blue;
+    font-size: 20px;
+    width: 150px;
+    height: 90px;
+}
+p.style {
+    margin-top: 100px;
+}
+
+p.style span {
+    color: red;
+}
+h2 {
+    color: white;
+    background: green;
+}
+
+h2.new {
+  padding: 50px 50px;
+}
+
+p.text {
+    padding-left: 100px;
+}
+
+ul.list {
+    font-size: 30px;
+}
+
+li  {
+    border: 1px solid;
+}
